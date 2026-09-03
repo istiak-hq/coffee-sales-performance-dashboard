@@ -69,15 +69,15 @@ The dashboard provides a visual summary of coffee sales performance and enables 
 
 ### Dashboard Preview
 
-![Coffee Sales Dashboard](screenshots/dashboard.png)
+![Coffee Sales Dashboard](screenshots/Dashboard.png)
 
 ### Sales Analysis
 
-![Sales Analysis](screenshots/sales-analysis.png)
+![Sales Analysis](screenshots/Pivots.png)
 
 ### Source Data
 
-![Orders Data](screenshots/orders-data.png)
+![Orders Data](screenshots/Orders.png)
 
 ## 🛠️ Tools & Skills
 
