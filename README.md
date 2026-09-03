@@ -99,7 +99,7 @@ The dashboard provides a visual summary of coffee sales performance and enables 
 ## 📁 Files
 
 ```text
-Coffee_Sales_Dashboard.xlsx
+Coffee_Sales_Performance_Dashboard.xlsx
 ```
 
 The workbook contains the source data, analytical calculations, Pivot Tables, and dashboard.
